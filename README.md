@@ -1,6 +1,12 @@
-# Parada9
+# Desafio 09 e 10 - Tecnologia
 <h3> Alunos participantes: Helionay e Gustavo</h3>
 <h1>Este é um projeto de um site de uma loja de artigos esportivos de produtos da adidas</h1>
+
+## Descrição do Projeto
+
+Neste desafio, foi criado o template de um site para o cliente, seguindo as diretrizes de marca e logo. O template foi desenvolvido no Figma e leva em consideração a estrutura do site (header, menu, body, footer), cores, fontes e imagens que combinam com a proposta da marca.
+
+
 
 ![1](https://github.com/Helionaydias/Parada9/assets/101341807/11fb3cd7-a9d7-4dc3-912e-eacb7275f3e2)
 ![2](https://github.com/Helionaydias/Parada9/assets/101341807/770ce1dc-7018-4977-b8cc-7ad05d769397)
